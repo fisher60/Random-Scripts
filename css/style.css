@@ -1,0 +1,15 @@
+.toppage {
+	background-color: #2A4E6E;
+	color: white;
+	text-align: center;
+}
+.carousel-text{
+	position: absolute;
+  	bottom: 50%;
+  	left: 50%;
+  	z-index: 20;
+  	color: black;
+  	text-shadow: 0 1px 2px rgba(0,0,0,.6);
+  	font-size: 200%;
+}
+
