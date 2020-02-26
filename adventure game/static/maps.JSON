@@ -1,0 +1,5 @@
+{
+  "town":  {"passive": true, "min_level": 1, "npcs":  ["town"], "special":  false, "locations": ["pub", "apothecary", "market"]},
+  "bandit_camp":  {"passive": false, "min_level": 5, "npcs":  ["bandits"], "special":  false, "locations": ["barracks"]},
+  "forest":  {"passive": false, "min_level": 1, "npcs":  ["bandits", "monsters"], "special":  true, "locations":  ["meadow"]}
+}

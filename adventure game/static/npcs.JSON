@@ -1,0 +1,7 @@
+{
+  "town": {
+    "doctor": {"quest": false, "trade":  true, "trade_options": ["heal", "potions"], "locations": ["apothecary"], "dialogue": ["Do you need healing?"]},
+    "merchant": {"quest": false, "trade":  true, "trade_options": ["random_weapon"], "locations": ["market"], "dialogue": ["Do you wish to buy?"]},
+    "inkeeper": {"quest": true, "trade":  false, "locations": ["pub"], "dialogue": ["Need something?"], "quests": ["Buy a pint!"]}
+  }
+}
