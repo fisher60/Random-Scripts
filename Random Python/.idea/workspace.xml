@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="babe7d3a-868f-4a20-862a-726ed8c6b52e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/union_find.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewars/make_model_year.py" beforeDir="false" afterPath="$PROJECT_DIR$/codewars/make_model_year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorators_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logic_gate_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chess.py" beforeDir="false" afterPath="$PROJECT_DIR$/chess.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +34,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.reverse_cipher">
-    <configuration name="cipher" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.logic_gate_example">
+    <configuration name="decorators_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Random Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -44,28 +47,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cipher.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="dna_rna" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Random Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dna_rna.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/decorators_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,6 +77,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="logic_gate_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Random Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logic_gate_example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="reverse_cipher" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Random Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="speedtest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Random Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,7 +131,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/speedtest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.logic_gate_example" />
+        <item itemvalue="Python.decorators_test" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.reverse_cipher" />
         <item itemvalue="Python.image_gen" />
-        <item itemvalue="Python.cipher" />
-        <item itemvalue="Python.dna_rna" />
-        <item itemvalue="Python.speedtest" />
       </list>
     </recent_temporary>
   </component>
@@ -173,29 +176,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1581472239928">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="2027" height="304" key="GridCell.Tab.0.bottom" timestamp="1592959772423">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1579380663721" />
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581472239928" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1581472239928">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="2027" height="304" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.346.1360.728@0.0.2048.1112" timestamp="1592959772423" />
+    <state width="2027" height="304" key="GridCell.Tab.0.center" timestamp="1592959772423">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1579380663721" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581472239928" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1581472239927">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="2027" height="304" key="GridCell.Tab.0.center/0.0.2048.1112/2560.346.1360.728@0.0.2048.1112" timestamp="1592959772423" />
+    <state width="2027" height="304" key="GridCell.Tab.0.left" timestamp="1592959772423">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1579380663721" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581472239927" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1581472239928">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="2027" height="304" key="GridCell.Tab.0.left/0.0.2048.1112/2560.346.1360.728@0.0.2048.1112" timestamp="1592959772423" />
+    <state width="2027" height="304" key="GridCell.Tab.0.right" timestamp="1592959772423">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1579380663721" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581472239928" />
-    <state x="277" y="56" key="SettingsEditor" timestamp="1579375415663">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="277" y="56" key="SettingsEditor/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1579375415663" />
+    <state width="2027" height="304" key="GridCell.Tab.0.right/0.0.2048.1112/2560.346.1360.728@0.0.2048.1112" timestamp="1592959772423" />
   </component>
 </project>
