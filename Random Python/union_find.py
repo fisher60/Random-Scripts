@@ -1,9 +1,21 @@
+import random
+
+
+def make_connections(data_set):
+    connections = []
+    for _ in data_set:
+        connections.append((random.choice(data_set), random.choice(data_set)))
+    return connections
 
 
 # Slow, N^2 array access
 class QuickFind:
-    def __init__(self, n):
-        self.id = [x for x in range(0, n - 1)]
+    def __init__(self, n: int):
+        self.id = [x for x in range(0, n)]
+        self.connections = make_connections(self.id)
+
+    def __str__(self):
+        return str(self.id)
 
     def is_connected(self, p, q):
         return p == q
@@ -12,15 +24,19 @@ class QuickFind:
         p_id = self.id[p]
         q_id = self.id[q]
 
-        for count, each in self.id:
+        for count in self.id:
             if self.id[count] == p_id:
                 self.id[count] = q_id
 
 
-#also slow, N array access
+# also slow, N array access
 class QuickUnion:
-    def __init__(self, n):
-        self.id = [x for x in range(0, n - 1)]
+    def __init__(self, n: int):
+        self.id = [x for x in range(0, n)]
+        self.connections = make_connections(self.id)
+
+    def __str__(self):
+        return str(self.id)
 
     def root(self, i):
         while i != self.id[i]:
@@ -39,3 +55,11 @@ class QuickUnion:
             return
         else:
             self.id[i] = j
+
+
+if __name__ == '__main__':
+    test = QuickUnion(5)
+    print(test.connections)
+    for connection in test.connections:
+        test.union(connection[0], connection[1])
+    print(test)
