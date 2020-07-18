@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="babe7d3a-868f-4a20-862a-726ed8c6b52e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/unique_class_ids.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/braille_converter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/finance_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solar_output_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +34,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.unique_class_ids">
+  <component name="RunManager" selected="Python.test">
     <configuration name="decorators_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Random Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,10 +142,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.unique_class_ids" />
         <item itemvalue="Python.logic_gate_example" />
         <item itemvalue="Python.decorators_test" />
-        <item itemvalue="Python.test" />
         <item itemvalue="Python.reverse_cipher" />
       </list>
     </recent_temporary>
@@ -173,25 +176,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1002" height="315" key="GridCell.Tab.0.bottom" timestamp="1593739107150">
+    <state width="2027" height="312" key="GridCell.Tab.0.bottom" timestamp="1595105938539">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1002" height="315" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.346.1360.728@0.0.2048.1112" timestamp="1593739107150" />
+    <state width="2027" height="312" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.346.1360.728@0.0.2048.1112" timestamp="1595105938539" />
     <state width="1339" height="185" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.346.1360.728@2560.346.1360.728" timestamp="1593671236963" />
-    <state width="1002" height="315" key="GridCell.Tab.0.center" timestamp="1593739107150">
+    <state width="2027" height="312" key="GridCell.Tab.0.center" timestamp="1595105938539">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1002" height="315" key="GridCell.Tab.0.center/0.0.2048.1112/2560.346.1360.728@0.0.2048.1112" timestamp="1593739107150" />
+    <state width="2027" height="312" key="GridCell.Tab.0.center/0.0.2048.1112/2560.346.1360.728@0.0.2048.1112" timestamp="1595105938539" />
     <state width="1339" height="185" key="GridCell.Tab.0.center/0.0.2048.1112/2560.346.1360.728@2560.346.1360.728" timestamp="1593671236963" />
-    <state width="1002" height="315" key="GridCell.Tab.0.left" timestamp="1593739107149">
+    <state width="2027" height="312" key="GridCell.Tab.0.left" timestamp="1595105938539">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1002" height="315" key="GridCell.Tab.0.left/0.0.2048.1112/2560.346.1360.728@0.0.2048.1112" timestamp="1593739107149" />
+    <state width="2027" height="312" key="GridCell.Tab.0.left/0.0.2048.1112/2560.346.1360.728@0.0.2048.1112" timestamp="1595105938539" />
     <state width="1339" height="185" key="GridCell.Tab.0.left/0.0.2048.1112/2560.346.1360.728@2560.346.1360.728" timestamp="1593671236963" />
-    <state width="1002" height="315" key="GridCell.Tab.0.right" timestamp="1593739107150">
+    <state width="2027" height="312" key="GridCell.Tab.0.right" timestamp="1595105938539">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1002" height="315" key="GridCell.Tab.0.right/0.0.2048.1112/2560.346.1360.728@0.0.2048.1112" timestamp="1593739107150" />
+    <state width="2027" height="312" key="GridCell.Tab.0.right/0.0.2048.1112/2560.346.1360.728@0.0.2048.1112" timestamp="1595105938539" />
     <state width="1339" height="185" key="GridCell.Tab.0.right/0.0.2048.1112/2560.346.1360.728@2560.346.1360.728" timestamp="1593671236963" />
   </component>
 </project>
