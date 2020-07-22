@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="babe7d3a-868f-4a20-862a-726ed8c6b52e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/braille_converter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finance_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solar_output_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chess_knight_shortest_path.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/find_partitions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shortest_path.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
@@ -77,27 +77,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reverse_cipher" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Random Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reverse_cipher.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Random Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,6 +90,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="union_find" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Random Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/union_find.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,10 +143,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.union_find" />
         <item itemvalue="Python.unique_class_ids" />
         <item itemvalue="Python.logic_gate_example" />
         <item itemvalue="Python.decorators_test" />
-        <item itemvalue="Python.reverse_cipher" />
       </list>
     </recent_temporary>
   </component>
@@ -176,25 +176,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2027" height="312" key="GridCell.Tab.0.bottom" timestamp="1595105938539">
+    <state width="2027" height="312" key="GridCell.Tab.0.bottom" timestamp="1595388972704">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2027" height="312" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.346.1360.728@0.0.2048.1112" timestamp="1595105938539" />
+    <state width="2027" height="312" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.346.1360.728@0.0.2048.1112" timestamp="1595388972704" />
     <state width="1339" height="185" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.346.1360.728@2560.346.1360.728" timestamp="1593671236963" />
-    <state width="2027" height="312" key="GridCell.Tab.0.center" timestamp="1595105938539">
+    <state width="2027" height="312" key="GridCell.Tab.0.center" timestamp="1595388972704">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2027" height="312" key="GridCell.Tab.0.center/0.0.2048.1112/2560.346.1360.728@0.0.2048.1112" timestamp="1595105938539" />
+    <state width="2027" height="312" key="GridCell.Tab.0.center/0.0.2048.1112/2560.346.1360.728@0.0.2048.1112" timestamp="1595388972704" />
     <state width="1339" height="185" key="GridCell.Tab.0.center/0.0.2048.1112/2560.346.1360.728@2560.346.1360.728" timestamp="1593671236963" />
-    <state width="2027" height="312" key="GridCell.Tab.0.left" timestamp="1595105938539">
+    <state width="2027" height="312" key="GridCell.Tab.0.left" timestamp="1595388972704">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2027" height="312" key="GridCell.Tab.0.left/0.0.2048.1112/2560.346.1360.728@0.0.2048.1112" timestamp="1595105938539" />
+    <state width="2027" height="312" key="GridCell.Tab.0.left/0.0.2048.1112/2560.346.1360.728@0.0.2048.1112" timestamp="1595388972704" />
     <state width="1339" height="185" key="GridCell.Tab.0.left/0.0.2048.1112/2560.346.1360.728@2560.346.1360.728" timestamp="1593671236963" />
-    <state width="2027" height="312" key="GridCell.Tab.0.right" timestamp="1595105938539">
+    <state width="2027" height="312" key="GridCell.Tab.0.right" timestamp="1595388972704">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2027" height="312" key="GridCell.Tab.0.right/0.0.2048.1112/2560.346.1360.728@0.0.2048.1112" timestamp="1595105938539" />
+    <state width="2027" height="312" key="GridCell.Tab.0.right/0.0.2048.1112/2560.346.1360.728@0.0.2048.1112" timestamp="1595388972704" />
     <state width="1339" height="185" key="GridCell.Tab.0.right/0.0.2048.1112/2560.346.1360.728@2560.346.1360.728" timestamp="1593671236963" />
   </component>
 </project>
