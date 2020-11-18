@@ -1,0 +1,882 @@
+[
+  {
+    "experiment_id": 5217 ,
+    "methodological_detail_id": null ,
+    "qualitative_outcome": "Reduced" ,
+    "disease_id": 22 ,
+    "meddra_level": "preferred_term" ,
+    "meddra_id": 10061451 ,
+    "location_id": 10 ,
+    "disease_name": "Colorectal cancer" ,
+    "organism_id": 151 ,
+    "organism_name": "Eubacterium ventriosum" ,
+    "organism_ncbi_id": 39496 ,
+    "subject_value": null ,
+    "control_value": null ,
+    "ratio": null ,
+    "method_name": "Metagenomic sequencing" ,
+    "sample_name": "Tissue biopsie" ,
+    "host_type": "Human" ,
+    "host_id": 669 ,
+    "publication_id": 587 ,
+    "control_name": "Healthy control" ,
+    "response_name": null ,
+    "response_unit": null ,
+    "hittypes": [
+      {
+        "origin": "meddra" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal carcinoma" ,
+          "Colorectal neoplasms malignant" ,
+          "Recurrent N-ras mutation-positive colorectal carcinoma"
+        ]
+      } ,
+      {
+        "origin": "disease" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer"
+        ]
+      }
+    ]
+  } ,
+  {
+    "experiment_id": 10249 ,
+    "methodological_detail_id": 557 ,
+    "qualitative_outcome": "Reduced" ,
+    "disease_id": 22 ,
+    "meddra_level": "preferred_term" ,
+    "meddra_id": 10061451 ,
+    "location_id": 10 ,
+    "disease_name": "Colorectal cancer" ,
+    "organism_id": 636 ,
+    "organism_name": "Lachnoclostridium" ,
+    "organism_ncbi_id": 1506553 ,
+    "subject_value": null ,
+    "control_value": null ,
+    "ratio": "-0.8900" ,
+    "method_name": "16S rRNA sequencing" ,
+    "sample_name": "Faeces" ,
+    "host_type": "Human" ,
+    "host_id": 1218 ,
+    "publication_id": 1099 ,
+    "control_name": "Healthy control" ,
+    "response_name": "Log10 fold change" ,
+    "response_unit": null ,
+    "hittypes": [
+      {
+        "origin": "meddra" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal carcinoma" ,
+          "Colorectal neoplasms malignant" ,
+          "Recurrent N-ras mutation-positive colorectal carcinoma"
+        ]
+      } ,
+      {
+        "origin": "disease" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer"
+        ]
+      }
+    ]
+  } ,
+  {
+    "experiment_id": 5221 ,
+    "methodological_detail_id": null ,
+    "qualitative_outcome": "Reduced" ,
+    "disease_id": 22 ,
+    "meddra_level": "preferred_term" ,
+    "meddra_id": 10061451 ,
+    "location_id": 10 ,
+    "disease_name": "Colorectal cancer" ,
+    "organism_id": 240 ,
+    "organism_name": "Bacteroides fragilis" ,
+    "organism_ncbi_id": 817 ,
+    "subject_value": null ,
+    "control_value": null ,
+    "ratio": null ,
+    "method_name": "Metagenomic sequencing" ,
+    "sample_name": "Tissue biopsie" ,
+    "host_type": "Human" ,
+    "host_id": 669 ,
+    "publication_id": 587 ,
+    "control_name": "Healthy control" ,
+    "response_name": null ,
+    "response_unit": null ,
+    "hittypes": [
+      {
+        "origin": "meddra" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal carcinoma" ,
+          "Colorectal neoplasms malignant" ,
+          "Recurrent N-ras mutation-positive colorectal carcinoma"
+        ]
+      } ,
+      {
+        "origin": "disease" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer"
+        ]
+      }
+    ]
+  } ,
+  {
+    "experiment_id": 4063 ,
+    "methodological_detail_id": 17 ,
+    "qualitative_outcome": "Elevated" ,
+    "disease_id": 22 ,
+    "meddra_level": "preferred_term" ,
+    "meddra_id": 10061451 ,
+    "location_id": 10 ,
+    "disease_name": "Colorectal cancer" ,
+    "organism_id": 62 ,
+    "organism_name": "Streptococcus" ,
+    "organism_ncbi_id": 1306 ,
+    "subject_value": "1.1900" ,
+    "control_value": "0.6600" ,
+    "ratio": null ,
+    "method_name": "16S rRNA pyrosequencing" ,
+    "sample_name": "Faeces" ,
+    "host_type": "Human" ,
+    "host_id": 558 ,
+    "publication_id": 487 ,
+    "control_name": "Healthy control" ,
+    "response_name": "% (abundancy)" ,
+    "response_unit": "% (abundancy)" ,
+    "hittypes": [
+      {
+        "origin": "meddra" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal carcinoma" ,
+          "Colorectal neoplasms malignant" ,
+          "Recurrent N-ras mutation-positive colorectal carcinoma"
+        ]
+      } ,
+      {
+        "origin": "disease" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer"
+        ]
+      }
+    ]
+  } ,
+  {
+    "experiment_id": 7355 ,
+    "methodological_detail_id": 291 ,
+    "qualitative_outcome": "Reduced" ,
+    "disease_id": 22 ,
+    "meddra_level": "preferred_term" ,
+    "meddra_id": 10061451 ,
+    "location_id": 18 ,
+    "disease_name": "Colorectal cancer" ,
+    "organism_id": 53 ,
+    "organism_name": "Parabacteroides" ,
+    "organism_ncbi_id": 1869337 ,
+    "subject_value": "0.0010" ,
+    "control_value": "0.0120" ,
+    "ratio": null ,
+    "method_name": "16S rRNA sequencing" ,
+    "sample_name": "Tissue biopsie" ,
+    "host_type": "Human" ,
+    "host_id": 909 ,
+    "publication_id": 798 ,
+    "control_name": "Adjacent healthy tissue" ,
+    "response_name": "% (abundancy)" ,
+    "response_unit": "% (abundancy)" ,
+    "hittypes": [
+      {
+        "origin": "meddra" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal carcinoma" ,
+          "Colorectal neoplasms malignant" ,
+          "Recurrent N-ras mutation-positive colorectal carcinoma"
+        ]
+      } ,
+      {
+        "origin": "disease" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer"
+        ]
+      }
+    ]
+  } ,
+  {
+    "experiment_id": 10920 ,
+    "methodological_detail_id": 615 ,
+    "qualitative_outcome": "Elevated" ,
+    "disease_id": 385 ,
+    "meddra_level": "preferred_term" ,
+    "meddra_id": 10052358 ,
+    "location_id": 10 ,
+    "disease_name": "Invasive colorectal cancer" ,
+    "organism_id": 250 ,
+    "organism_name": "Corynebacterium" ,
+    "organism_ncbi_id": 1716 ,
+    "subject_value": null ,
+    "control_value": null ,
+    "ratio": null ,
+    "method_name": "16S rRNA sequencing" ,
+    "sample_name": "Faeces" ,
+    "host_type": "Human" ,
+    "host_id": 1285 ,
+    "publication_id": 1162 ,
+    "control_name": "Early colorectal cancer patient" ,
+    "response_name": null ,
+    "response_unit": null ,
+    "hittypes": [
+      {
+        "origin": "meddra" ,
+        "original_terms": [
+          "Colorectal cancer metastatic" ,
+          "Metastatic colorectal cancer" ,
+          "Colorectal cancer metastatic" ,
+          "Colorectal neoplasms malignant" ,
+          "Metastatic colorectal cancer"
+        ]
+      } ,
+      {
+        "origin": "disease" ,
+        "original_terms": [
+          "Invasive colorectal cancer" ,
+          "Invasive colorectal cancer"
+        ]
+      }
+    ]
+  } ,
+  {
+    "experiment_id": 9735 ,
+    "methodological_detail_id": 507 ,
+    "qualitative_outcome": "Elevated" ,
+    "disease_id": 22 ,
+    "meddra_level": "preferred_term" ,
+    "meddra_id": 10061451 ,
+    "location_id": 10 ,
+    "disease_name": "Colorectal cancer" ,
+    "organism_id": 1530 ,
+    "organism_name": "Uetekavirus" ,
+    "organism_ncbi_id": 542960 ,
+    "subject_value": null ,
+    "control_value": null ,
+    "ratio": null ,
+    "method_name": "Metagenomic sequencing" ,
+    "sample_name": "Faeces" ,
+    "host_type": "Human" ,
+    "host_id": 1160 ,
+    "publication_id": 1043 ,
+    "control_name": "Healthy control" ,
+    "response_name": null ,
+    "response_unit": null ,
+    "hittypes": [
+      {
+        "origin": "meddra" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal carcinoma" ,
+          "Colorectal neoplasms malignant" ,
+          "Recurrent N-ras mutation-positive colorectal carcinoma"
+        ]
+      } ,
+      {
+        "origin": "disease" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer"
+        ]
+      }
+    ]
+  } ,
+  {
+    "experiment_id": 9720 ,
+    "methodological_detail_id": 507 ,
+    "qualitative_outcome": "Elevated" ,
+    "disease_id": 22 ,
+    "meddra_level": "preferred_term" ,
+    "meddra_id": 10061451 ,
+    "location_id": 10 ,
+    "disease_name": "Colorectal cancer" ,
+    "organism_id": 1515 ,
+    "organism_name": "Tunalikevirus" ,
+    "organism_ncbi_id": 187217 ,
+    "subject_value": null ,
+    "control_value": null ,
+    "ratio": null ,
+    "method_name": "Metagenomic sequencing" ,
+    "sample_name": "Faeces" ,
+    "host_type": "Human" ,
+    "host_id": 1160 ,
+    "publication_id": 1043 ,
+    "control_name": "Healthy control" ,
+    "response_name": null ,
+    "response_unit": null ,
+    "hittypes": [
+      {
+        "origin": "meddra" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal carcinoma" ,
+          "Colorectal neoplasms malignant" ,
+          "Recurrent N-ras mutation-positive colorectal carcinoma"
+        ]
+      } ,
+      {
+        "origin": "disease" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer"
+        ]
+      }
+    ]
+  } ,
+  {
+    "experiment_id": 633 ,
+    "methodological_detail_id": null ,
+    "qualitative_outcome": "Elevated" ,
+    "disease_id": 22 ,
+    "meddra_level": "preferred_term" ,
+    "meddra_id": 10061451 ,
+    "location_id": 38 ,
+    "disease_name": "Colorectal cancer" ,
+    "organism_id": 249 ,
+    "organism_name": "Gemella" ,
+    "organism_ncbi_id": 1378 ,
+    "subject_value": null ,
+    "control_value": null ,
+    "ratio": null ,
+    "method_name": "16S rRNA sequencing" ,
+    "sample_name": "Rectal swab" ,
+    "host_type": "Human" ,
+    "host_id": 79 ,
+    "publication_id": 74 ,
+    "control_name": "Healthy control" ,
+    "response_name": null ,
+    "response_unit": null ,
+    "hittypes": [
+      {
+        "origin": "meddra" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal carcinoma" ,
+          "Colorectal neoplasms malignant" ,
+          "Recurrent N-ras mutation-positive colorectal carcinoma"
+        ]
+      } ,
+      {
+        "origin": "disease" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer"
+        ]
+      }
+    ]
+  } ,
+  {
+    "experiment_id": 551 ,
+    "methodological_detail_id": null ,
+    "qualitative_outcome": "Reduced" ,
+    "disease_id": 22 ,
+    "meddra_level": "preferred_term" ,
+    "meddra_id": 10061451 ,
+    "location_id": 10 ,
+    "disease_name": "Colorectal cancer" ,
+    "organism_id": 298 ,
+    "organism_name": "Bacteroides capillosus" ,
+    "organism_ncbi_id": 106588 ,
+    "subject_value": "0.1000" ,
+    "control_value": "0.2300" ,
+    "ratio": null ,
+    "method_name": "16S rRNA sequencing" ,
+    "sample_name": "Faeces" ,
+    "host_type": "Human" ,
+    "host_id": 70 ,
+    "publication_id": 66 ,
+    "control_name": "Healthy control" ,
+    "response_name": "% (abundancy)" ,
+    "response_unit": "% (abundancy)" ,
+    "hittypes": [
+      {
+        "origin": "meddra" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal carcinoma" ,
+          "Colorectal neoplasms malignant" ,
+          "Recurrent N-ras mutation-positive colorectal carcinoma"
+        ]
+      } ,
+      {
+        "origin": "disease" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer"
+        ]
+      }
+    ]
+  } ,
+  {
+    "experiment_id": 612 ,
+    "methodological_detail_id": null ,
+    "qualitative_outcome": "Elevated" ,
+    "disease_id": 22 ,
+    "meddra_level": "preferred_term" ,
+    "meddra_id": 10061451 ,
+    "location_id": 37 ,
+    "disease_name": "Colorectal cancer" ,
+    "organism_id": 1 ,
+    "organism_name": "Lactobacillus" ,
+    "organism_ncbi_id": 1591 ,
+    "subject_value": "1.3400" ,
+    "control_value": "0.6700" ,
+    "ratio": null ,
+    "method_name": "16S rRNA sequencing" ,
+    "sample_name": "Tissue biopsie" ,
+    "host_type": "Human" ,
+    "host_id": 77 ,
+    "publication_id": 73 ,
+    "control_name": "Healthy control" ,
+    "response_name": "Log abundancy" ,
+    "response_unit": "Log abundancy" ,
+    "hittypes": [
+      {
+        "origin": "meddra" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal carcinoma" ,
+          "Colorectal neoplasms malignant" ,
+          "Recurrent N-ras mutation-positive colorectal carcinoma"
+        ]
+      } ,
+      {
+        "origin": "disease" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer"
+        ]
+      }
+    ]
+  } ,
+  {
+    "experiment_id": 552 ,
+    "methodological_detail_id": null ,
+    "qualitative_outcome": "Reduced" ,
+    "disease_id": 22 ,
+    "meddra_level": "preferred_term" ,
+    "meddra_id": 10061451 ,
+    "location_id": 10 ,
+    "disease_name": "Colorectal cancer" ,
+    "organism_id": 208 ,
+    "organism_name": "Ruminococcus albus" ,
+    "organism_ncbi_id": 1264 ,
+    "subject_value": "0.0300" ,
+    "control_value": "0.3600" ,
+    "ratio": null ,
+    "method_name": "16S rRNA sequencing" ,
+    "sample_name": "Faeces" ,
+    "host_type": "Human" ,
+    "host_id": 70 ,
+    "publication_id": 66 ,
+    "control_name": "Healthy control" ,
+    "response_name": "% (abundancy)" ,
+    "response_unit": "% (abundancy)" ,
+    "hittypes": [
+      {
+        "origin": "meddra" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal carcinoma" ,
+          "Colorectal neoplasms malignant" ,
+          "Recurrent N-ras mutation-positive colorectal carcinoma"
+        ]
+      } ,
+      {
+        "origin": "disease" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer"
+        ]
+      }
+    ]
+  } ,
+  {
+    "experiment_id": 4415 ,
+    "methodological_detail_id": 45 ,
+    "qualitative_outcome": "Elevated" ,
+    "disease_id": 22 ,
+    "meddra_level": "preferred_term" ,
+    "meddra_id": 10061451 ,
+    "location_id": 18 ,
+    "disease_name": "Colorectal cancer" ,
+    "organism_id": 924 ,
+    "organism_name": "Providencia" ,
+    "organism_ncbi_id": 586 ,
+    "subject_value": null ,
+    "control_value": null ,
+    "ratio": null ,
+    "method_name": "16S rRNA sequencing" ,
+    "sample_name": "Tissue biopsie" ,
+    "host_type": "Human" ,
+    "host_id": 595 ,
+    "publication_id": 520 ,
+    "control_name": "Healthy control" ,
+    "response_name": null ,
+    "response_unit": null ,
+    "hittypes": [
+      {
+        "origin": "meddra" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal carcinoma" ,
+          "Colorectal neoplasms malignant" ,
+          "Recurrent N-ras mutation-positive colorectal carcinoma"
+        ]
+      } ,
+      {
+        "origin": "disease" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer"
+        ]
+      }
+    ]
+  } ,
+  {
+    "experiment_id": 6188 ,
+    "methodological_detail_id": 193 ,
+    "qualitative_outcome": "Elevated" ,
+    "disease_id": 22 ,
+    "meddra_level": "preferred_term" ,
+    "meddra_id": 10061451 ,
+    "location_id": 10 ,
+    "disease_name": "Colorectal cancer" ,
+    "organism_id": 1152 ,
+    "organism_name": "Thielaviopsis" ,
+    "organism_ncbi_id": 60496 ,
+    "subject_value": null ,
+    "control_value": null ,
+    "ratio": null ,
+    "method_name": "Shotgun sequencing" ,
+    "sample_name": "Faeces" ,
+    "host_type": "Human" ,
+    "host_id": 801 ,
+    "publication_id": 701 ,
+    "control_name": "Healthy control" ,
+    "response_name": null ,
+    "response_unit": null ,
+    "hittypes": [
+      {
+        "origin": "meddra" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal carcinoma" ,
+          "Colorectal neoplasms malignant" ,
+          "Recurrent N-ras mutation-positive colorectal carcinoma"
+        ]
+      } ,
+      {
+        "origin": "disease" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer"
+        ]
+      }
+    ]
+  } ,
+  {
+    "experiment_id": 553 ,
+    "methodological_detail_id": null ,
+    "qualitative_outcome": "Reduced" ,
+    "disease_id": 22 ,
+    "meddra_level": "preferred_term" ,
+    "meddra_id": 10061451 ,
+    "location_id": 10 ,
+    "disease_name": "Colorectal cancer" ,
+    "organism_id": 21 ,
+    "organism_name": "Dialister invisus" ,
+    "organism_ncbi_id": 218538 ,
+    "subject_value": "0.0700" ,
+    "control_value": "3.4500" ,
+    "ratio": null ,
+    "method_name": "16S rRNA sequencing" ,
+    "sample_name": "Faeces" ,
+    "host_type": "Human" ,
+    "host_id": 70 ,
+    "publication_id": 66 ,
+    "control_name": "Healthy control" ,
+    "response_name": "% (abundancy)" ,
+    "response_unit": "% (abundancy)" ,
+    "hittypes": [
+      {
+        "origin": "meddra" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal carcinoma" ,
+          "Colorectal neoplasms malignant" ,
+          "Recurrent N-ras mutation-positive colorectal carcinoma"
+        ]
+      } ,
+      {
+        "origin": "disease" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer"
+        ]
+      }
+    ]
+  } ,
+  {
+    "experiment_id": 9718 ,
+    "methodological_detail_id": 507 ,
+    "qualitative_outcome": "Elevated" ,
+    "disease_id": 22 ,
+    "meddra_level": "preferred_term" ,
+    "meddra_id": 10061451 ,
+    "location_id": 10 ,
+    "disease_name": "Colorectal cancer" ,
+    "organism_id": 1513 ,
+    "organism_name": "Orthobunyavirus" ,
+    "organism_ncbi_id": 11572 ,
+    "subject_value": null ,
+    "control_value": null ,
+    "ratio": null ,
+    "method_name": "Metagenomic sequencing" ,
+    "sample_name": "Faeces" ,
+    "host_type": "Human" ,
+    "host_id": 1160 ,
+    "publication_id": 1043 ,
+    "control_name": "Healthy control" ,
+    "response_name": null ,
+    "response_unit": null ,
+    "hittypes": [
+      {
+        "origin": "meddra" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal carcinoma" ,
+          "Colorectal neoplasms malignant" ,
+          "Recurrent N-ras mutation-positive colorectal carcinoma"
+        ]
+      } ,
+      {
+        "origin": "disease" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer"
+        ]
+      }
+    ]
+  } ,
+  {
+    "experiment_id": 1839 ,
+    "methodological_detail_id": null ,
+    "qualitative_outcome": "Elevated" ,
+    "disease_id": 22 ,
+    "meddra_level": "preferred_term" ,
+    "meddra_id": 10061451 ,
+    "location_id": 18 ,
+    "disease_name": "Colorectal cancer" ,
+    "organism_id": 132 ,
+    "organism_name": "Ruminococcus" ,
+    "organism_ncbi_id": 41978 ,
+    "subject_value": null ,
+    "control_value": null ,
+    "ratio": null ,
+    "method_name": "16S rRNA sequencing" ,
+    "sample_name": "Tissue biopsie" ,
+    "host_type": "Human" ,
+    "host_id": 252 ,
+    "publication_id": 224 ,
+    "control_name": "Healthy control" ,
+    "response_name": null ,
+    "response_unit": null ,
+    "hittypes": [
+      {
+        "origin": "meddra" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal carcinoma" ,
+          "Colorectal neoplasms malignant" ,
+          "Recurrent N-ras mutation-positive colorectal carcinoma"
+        ]
+      } ,
+      {
+        "origin": "disease" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer"
+        ]
+      }
+    ]
+  } ,
+  {
+    "experiment_id": 9297 ,
+    "methodological_detail_id": 464 ,
+    "qualitative_outcome": "Elevated" ,
+    "disease_id": 22 ,
+    "meddra_level": "preferred_term" ,
+    "meddra_id": 10061451 ,
+    "location_id": 10 ,
+    "disease_name": "Colorectal cancer" ,
+    "organism_id": 1464 ,
+    "organism_name": "Lactobacillus sanfranciscensis" ,
+    "organism_ncbi_id": 1625 ,
+    "subject_value": null ,
+    "control_value": null ,
+    "ratio": null ,
+    "method_name": "Metagenomic sequencing" ,
+    "sample_name": "Faeces" ,
+    "host_type": "Human" ,
+    "host_id": 1114 ,
+    "publication_id": 998 ,
+    "control_name": "Healthy control" ,
+    "response_name": null ,
+    "response_unit": null ,
+    "hittypes": [
+      {
+        "origin": "meddra" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal carcinoma" ,
+          "Colorectal neoplasms malignant" ,
+          "Recurrent N-ras mutation-positive colorectal carcinoma"
+        ]
+      } ,
+      {
+        "origin": "disease" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer"
+        ]
+      }
+    ]
+  } ,
+  {
+    "experiment_id": 622 ,
+    "methodological_detail_id": null ,
+    "qualitative_outcome": "Reduced" ,
+    "disease_id": 22 ,
+    "meddra_level": "preferred_term" ,
+    "meddra_id": 10061451 ,
+    "location_id": 18 ,
+    "disease_name": "Colorectal cancer" ,
+    "organism_id": 324 ,
+    "organism_name": "Ochrobactrum" ,
+    "organism_ncbi_id": 528 ,
+    "subject_value": "0.0260" ,
+    "control_value": "0.0540" ,
+    "ratio": null ,
+    "method_name": "16S rRNA sequencing" ,
+    "sample_name": "Tissue biopsie" ,
+    "host_type": "Human" ,
+    "host_id": 78 ,
+    "publication_id": 74 ,
+    "control_name": "Same person (healthy tissue)" ,
+    "response_name": "% (abundancy)" ,
+    "response_unit": "% (abundancy)" ,
+    "hittypes": [
+      {
+        "origin": "meddra" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal cancer" ,
+          "Colorectal cancer NOS" ,
+          "Colorectal carcinoma" ,
+          "Colorectal neoplasms malignant" ,
+          "Recurrent N-ras mutation-positive colorectal carcinoma"
+        ]
+      } ,
+      {
+        "origin": "disease" ,
+        "original_terms": [
+          "Colorectal cancer" ,
+          "Colorectal cancer"
+        ]
+      }
+    ]
+  } ,
+  {
+    "experiment_id": 7351 ,
+    "methodological_detail_id": 291 ,
+    "qualitative_outcome": "Reduced" ,
+    "disease_id": 22 ,
+    "meddra_level": "preferred_term" ,
+    "meddra_id": 10061451 ,
+    "location_id": 18 ,
+    "disease_name": "Colorectal cancer" ,
+    "organism_id": 819 ,
+    "organism_name": "Mitsuokella" ,
+    "organism_ncbi_id": 52225 ,
+    "subject_value": "0.0260" ,
+    "control_value": "0.0940" ,
+    "ratio": null ,
+    "method_name": "16S rRNA sequencing" ,
+    "sample_name": "Tissue biopsie" ,
+    "host_type": "Human" ,
+    "host_id": 909 ,
+    "publication_id": 798 ,
+    "control_name": "Adjacent healthy tissue" ,
+    "response_name": "% (abundancy)" ,
+    "response_unit": "% (abundancy)" ,
+    "hittypes": [
+      {
+        "origin": "meddra" ,
+        "original_terms": [
+          "Colorectal cancer" ,

@@ -31,12 +31,20 @@ class QuickFind:
 
 # also slow, N array access
 class QuickUnion:
-    def __init__(self, n: int):
+    def __init__(self, n: int, connections=None):
         self.id = [x for x in range(0, n)]
-        self.connections = make_connections(self.id)
+        if not connections:
+            self.connections = self.create_sample_connections()
 
     def __str__(self):
         return str(self.id)
+
+    def create_sample_connections(self):
+        connections = []
+        data_set = self.id
+        for _ in data_set:
+            connections.append((random.choice(data_set), random.choice(data_set)))
+        return connections
 
     def root(self, i):
         while i != self.id[i]:
