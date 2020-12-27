@@ -66,7 +66,7 @@ class QuickUnion:
 
 
 if __name__ == '__main__':
-    test = QuickUnion(5)
+    test = QuickUnion(1200)
     print(test.connections)
     for connection in test.connections:
         test.union(connection[0], connection[1])
