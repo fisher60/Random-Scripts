@@ -22,22 +22,23 @@ def clean_data(inp: str) -> List[str]:
     return final_data
 
 
-known_rolls = clean_data(raw_rolls)
-
-# test_rick_roll_url = "https://seph.club/not-a-rickroll" #  this one should currently be a positive
-
-this_url = input("paste url here\n")
-
-resp = requests.get(this_url).text
-
-
-is_rick_roll = False
-
-for roll in known_rolls:
-    if roll in resp:
-        is_rick_roll = True
+def is_rick_roll(url: str) -> bool:
+    """
+    Checks if a url matches in the list of known rick-rolls.
+    Known Rick Roll for testing: https://seph.club/not-a-rickroll
+    :param url: string, the url to be checked
+    :return: bool, whether or not this url is suspected to be a rick-roll
+    """
+    resp = requests.get(url).text
+    for roll in known_rolls:
+        if roll in resp:
+            return True
+    return False
 
 
-was_roll = "DANGER! This is a rick-roll" if is_rick_roll else "Caution: This is not a known rick-roll"
+if __name__ == "__main__":
+    known_rolls = clean_data(raw_rolls)
+    test_url = input("paste url here\n")
 
-print(was_roll)
+    print("DANGER! This is a rick-roll" if is_rick_roll(test_url) else "This is not a known rick-roll, "
+                                                                       "but be cautious, they are crafty!")
